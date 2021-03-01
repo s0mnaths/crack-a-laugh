@@ -1,5 +1,5 @@
 {
-  "name": "react-lights-out",
+  "name": "app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -23,5 +23,9 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
